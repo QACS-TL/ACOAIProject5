@@ -1,0 +1,1 @@
+API contracts, data schemas, required invariants for user-profile, billing, and notification flows.

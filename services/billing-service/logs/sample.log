@@ -1,0 +1,3 @@
+2025-01-01 INFO Start
+2025-01-01 ERROR Sample failure
+2025-01-01 WARN Retry triggered

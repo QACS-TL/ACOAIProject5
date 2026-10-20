@@ -1,0 +1,1 @@
+User table, billing records, session tokens, audit logs.

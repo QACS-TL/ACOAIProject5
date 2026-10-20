@@ -1,0 +1,1 @@
+Data retention: 90 days. PII rules apply. Encryption in transit and at rest required.

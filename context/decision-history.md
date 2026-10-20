@@ -1,0 +1,1 @@
+ADR-001 selected Redis for caching. ADR-002 adopted S3 for object storage. ADR-003 rejected Kafka migration.

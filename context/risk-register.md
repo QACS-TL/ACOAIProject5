@@ -1,0 +1,1 @@
+Risk: DB failover inconsistency (High). Risk: Cache stampedes (Medium). Risk: Provider lock-in (Medium).

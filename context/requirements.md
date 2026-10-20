@@ -1,0 +1,1 @@
+System must support multi-region failover, p95 < 250ms, cost ceiling £12k/month.
